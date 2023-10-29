@@ -1,3 +1,5 @@
+package com.example;
+
 /* Java program for Static Analysis.*/
 
 
